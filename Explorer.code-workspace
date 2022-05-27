@@ -1,10 +1,13 @@
 {
   "folders": [
     {
-      "path": "Project 05 - Grid & Animations"
+      "path": "Challenges\\Stage 3 - Form"
+    },
+    {
+      "path": "Project 03 - Event Form"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "Projeto03"
+    "liveServer.settings.multiRootWorkspaceName": "Stage 3 - Form"
   }
 }
